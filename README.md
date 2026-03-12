@@ -22,3 +22,9 @@ prompt-analyzer/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+
+
+
+## Sample Learning Outcome
+
+This project demonstrates how a simple Python utility can support better AI prompt writing
